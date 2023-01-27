@@ -1,5 +1,5 @@
 # Introduction:
-Hi there, I am Yogesh Modi and I have being working on Prostate cancer detection project indivually as Jr.Data Science intern at Zummit infolabs and with the help of my supervisor and colleagues i was able to complete this project.
+Hi there, I am Yogesh Modi and I have being working on Object detection project indivually as Jr.Data Science intern at Zummit infolabs and with the help of my supervisor and colleagues i was able to complete this project.
 
 # About Project:
 > Tittle:  Prostate Cancer detection :
